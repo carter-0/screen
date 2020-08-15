@@ -15,7 +15,7 @@
 
 ## Setup
 
-(link to wiki)
+(Required) [Wiki](https://github.com/carter-0/screen/wiki/)
 
 ## Dependencies
 
