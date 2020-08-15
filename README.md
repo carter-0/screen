@@ -17,6 +17,11 @@
 
 (link to wiki)
 
+## Dependencies
+
+* Minecraft 1.16 - 1.16.2 Spigot Server
+* (Linux Only) ImageMagick
+
 ## Screenshots
 
 * Minecraft in Minecraft![Minecraft in Minecraft](https://i.imgur.com/Zw7Fulo.jpg)
