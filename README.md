@@ -25,7 +25,7 @@
 ## Donate
 
 * Bitcoin Address: bc1qu23k24skdzwcfm2zlz5qlae8av8wnr6mdaq9j2
-![address](https://i.imgur.com/tcefYjF.png)
+* ![address](https://i.imgur.com/tcefYjF.png)
 
 ## Screenshots
 
