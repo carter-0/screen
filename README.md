@@ -22,6 +22,11 @@
 * Minecraft 1.16 - 1.16.2 Spigot Server
 * (Linux Only) ImageMagick
 
+## Donate
+
+* Bitcoin Address: bc1qu23k24skdzwcfm2zlz5qlae8av8wnr6mdaq9j2
+* [address](https://i.imgur.com/tcefYjF.png)
+
 ## Screenshots
 
 * Minecraft in Minecraft![Minecraft in Minecraft](https://i.imgur.com/Zw7Fulo.jpg)
