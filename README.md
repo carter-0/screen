@@ -18,7 +18,6 @@
 ## Setup
 
 * (Required) [Wiki](https://github.com/carter-0/screen/wiki/)
-* (This plugin is currently untested on windows, but it should work)
 
 ## Requirements
 
