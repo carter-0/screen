@@ -2,7 +2,7 @@
 
 ## About:
 
-#### Screen is a Spigot 1.16-1.16.2 Plugin that mirrors your display enabling you to do things such as playing minecraft within minecraft. (NOTE: Screen is view-only and it is therefore highly reccomened that the user has multiple monitors.)
+#### Screen is a Spigot 1.16-1.16.2 Plugin that mirrors your display enabling you to do things such as playing minecraft within minecraft. (NOTE: Screen is view-only and it is therefore highly recommended that the user has multiple monitors.)
 
 #### NOTE: This is an early version and contains lots of bugs.
 
