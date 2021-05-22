@@ -35,8 +35,3 @@
 
 * Minecraft in Minecraft![Minecraft in Minecraft](https://i.imgur.com/Zw7Fulo.jpg)
 * 3rd Person view ![3rd Person view](https://i.imgur.com/ubODwqy.png)
-
-## Donate
-
-* Bitcoin Address: bc1qu23k24skdzwcfm2zlz5qlae8av8wnr6mdaq9j2
-* ![address](https://i.imgur.com/tcefYjF.png)
